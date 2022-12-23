@@ -1,0 +1,1 @@
+These lookup tables are programmatically created by a Python script, using a SAS text file as input.
